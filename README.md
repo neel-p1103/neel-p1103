@@ -1,5 +1,5 @@
 # Hello, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- I’m @neel-p1103
+- My name is Neel Patel.
 - I’m interested in Software Engineeering, and Java Programming.
 - I’m currently learning back-end development and java. 
 - I’m looking forward to collaborating on extensive projects. 
