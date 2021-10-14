@@ -4,8 +4,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" media="screen and (max-width:800px)" href="tablet.css">
+    <link rel="stylesheet" media="screen and (max-width:530px)" href="phone.css">
 
-    <title>Neel Patel | Portfolio</title>
+    <title>Neel Patel</title>
 </head>
 
 <body>
@@ -14,8 +16,7 @@
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About Me</a></li>
             <li><a href="#projects">Projects</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#resume">Resume</a></li>
+            <li><a href="#skills">Skills</a></li>
             <li><a href="#contact">Contact Me</a></li>
 
         </ul>
@@ -26,9 +27,11 @@
             <h1 class="headings">
                 MY NAME IS <br>NEEL PATEL.</br>
             </h1>
-            <button class="btn">
-                About Me
-            </button>
+            <a href="#about">
+                <button class="btn">
+                    About Me
+                </button>
+            </a>
             <p>Website under construction...</p>
         </div>
     </section>
@@ -41,9 +44,11 @@
                 <h2>NEEL PATEL</h2>
                 <p>
                     Hello!
-                    My name is Neel Patel and I am a software engineering student with experience in effectively developing and implementing software products. I am passionate about software engineering, cybersecurity and UX/UI. In the past, I have worked industry-grade projects such as full-stack website, management systems and many others. These projects can be found below or on my <a href="https:www.github.com/neelp03" class="hyperlinks">GitHub</a> profile.
-
-                    I am an undergraduate student at San Jose State University with an interest in software engineering and computer forensics looking to advance current skills and learn new skills by contributing to industry-grade projects. Possesses a variety of skills that range from team collaboration and communication to object-oriented programming and web development. Past work experience includes working with tools such as GitHub, Visual Studio Code and IntelliJ IDEA, and programming languages such as Java, JavaScript, HTML, and CSS.
+                    My name is Neel Patel and I am a software engineering student with experience in effectively developing and implementing software products. I am an undergraduate student at San Jose State University with an interest in software engineering and computer forensics looking to advance current skills and learn new skills by contributing to industry-grade projects. 
+                    <br><br>
+                    I am passionate about software engineering, cybersecurity and UX/UI. In the past, I have worked industry-grade projects such as full-stack website, management systems and many others. These projects can be found below or on my <a href="https:www.github.com/neelp03" class="hyperlinks">GitHub</a> profile.
+                    <br><br>
+                    I possess a variety of skills that range from team collaboration and communication to object-oriented programming and web development. My past work experience includes working with tools such as GitHub, Visual Studio Code and IntelliJ IDEA, and programming languages such as Java, JavaScript, HTML, and CSS.
                 </p>
             </div>
         </div>
@@ -58,8 +63,8 @@
         </div>
     </section>
 
-    <section id="services">
-        <h1 class="headings">SERVICES</h1>
+    <section id="skills">
+        <h1 class="headings">My Skillsets</h1>
         <div class="row">
             <div class="box">
                 <img src="images/OOP.png" alt="">
@@ -73,12 +78,33 @@
             </div>
         </div>
     </section>
-
-    <section id="resume">
-        <h1 class="headings">Résumé</h1>
-        <div id="icon">
-            <img src="images/resumeIcon.png" alt="">
+    <section id="github">
+        <h1 class="headings">GITHUB STATISTICS</h1>
+        <div class = "git-stats">
+        
+            <a href="https://github.com/neelp03/neelp03">
+                <img src="https://github-readme-stats.vercel.app/api?username=neelp03&hide=issues,prs&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="Neel's GitHub stats" />
+           </a>
+           <a href="https://github.com/neelp03/neelp03">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelp03&layout=compact&theme=dark" alt="Neel's Top Language Stats"/>
+            </a>
         </div>
+        <hr></hr>
+    </section>
+    <section id="contact">
+        <h1 class="headings">Contact Me</h1>
+        <form action="" class="form">
+
+            <input type="text" name="name" id = "nameInput" class="input" placeholder="Enter Your Name" required>
+
+            <input type="email" name = "email" id = "emailInput" class="input" placeholder="Enter Your Email" required>
+
+            <input type="text" name="subject" id="subjectInput" class="input" placeholder="Subject:">
+
+            <textarea name = "body" id="bodyInput" cols = "30" rows = "10" placeholder="Enter Message" class = "input"></textarea>
+            <script src="index.js"></script>
+            <button type="button" class="btn" onclick="location.href=SEND()">SEND</button>
+        </form>
     </section>
 </body>
 </html>
