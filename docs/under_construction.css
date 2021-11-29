@@ -163,7 +163,7 @@ body:before {
   content: "";
   position: fixed;
   top: 0;
-  left: 25%;
+  left: 40%;
   width: 1px;
   height: 100%;
   background-color: #d8d8d8;
@@ -182,7 +182,7 @@ a:hover {
 }
 #content {
   position: relative;
-  margin-left: 25%;
+  margin-left: 40%;
 }
 #content:before {
   content: "";
@@ -218,17 +218,16 @@ a:hover {
   position: absolute;
   top: 50%;
   left: -12.5vw;
-  width: 16.666vw;
-  height: 16.666vw;
+  width: 33.332vw;
+  height: 33.332vw;
   transform: translate(-50%, -50%);
 }
-#content #logo svg {
+#content #logo img {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  fill: #000;
+  top: -50px;
+  left: -60px;
+  width: 200%;
+  height: 200%;
 }
 #content .copy {
   width: 58.333333vw;
@@ -255,8 +254,9 @@ a:hover {
     transform: translate(-1px, -50%);
   }
   #content #logo {
-    width: 12.5vw;
-    height: 12.5vw;
+    width: 30%;
+    height: 50%;
+    left: -210px;
   }
 }
 @media all and (min-width: 1024px) {
@@ -270,8 +270,9 @@ a:hover {
     font-size: 4.4vw;
   }
   #content #logo {
-    width: 8.333vw;
-    height: 8.333vw;
+    width: 30%;
+    height: 50%;
+    left: -230px;
   }
 }
 @media all and (min-width: 1439px) {
