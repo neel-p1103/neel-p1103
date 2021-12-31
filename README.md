@@ -28,6 +28,7 @@
 
    ---
 
+### Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#940](https://github.com/SCE-Development/Core-v4/pull/940) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 2. 💪 Opened PR [#936](https://github.com/SCE-Development/Core-v4/pull/936) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
