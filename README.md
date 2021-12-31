@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/banner.jfif "Header")](https://github.com/neelp03/neelp03/blob/main/banner.jfif)
-<p>
+<p align="center">
 	My name is Neel Patel and I am a software engineering student residing in California. You can find me on <a href="https://www.linkedin.com/in/neel-patel-01/">LinkedIn</a> and <a href="https://www.instagram.com/neel__patel03/">Instagram</a>. I am currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. You can find most of my work here on github or you can visit my portfolio at https://neelp03.github.io/neelp03 (currently under construction).
 </p>
 
