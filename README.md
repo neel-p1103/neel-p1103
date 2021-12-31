@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/neelp03/neelp03">
-  <img style="align-items: center; display: block; margin-left: auto; margin-right: auto; padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=neelp03&hide=issues,prs&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="Neel's GitHub stats" />
+  <img style="align-items: center; display: block; margin-left: auto; margin-right: auto; padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=neelp03&theme=onedark&include_all_commits=true" alt="Neel's GitHub stats" />
  </a>
 	
  <a href="https://github.com/neelp03/neelp03">
-  <img style="width: 39%; height:auto; align-items: center; display: block; margin-left: auto; margin-right: auto; padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelp03&layout=compact&theme=dark" />
+  <img style="width: 39%; height:auto; align-items: center; display: block; margin-left: auto; margin-right: auto; padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelp03&theme=onedark" />
   </a>
