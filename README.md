@@ -1,32 +1,31 @@
-<p align="left"> 
- <img src=https://komarev.com/ghpvc/?username=neelp03 alt=neelp03/> 
- &nbsp; 
- 
-  
-  <a href="https://www.linkedin.com/in/neel-patel-01/">
-    <img src="https://img.shields.io/badge/Neel-Patel-blue?style=flat&logo=linkedin">
-  </a> &nbsp;   
+[![Header](https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/banner.jfif "Header")](https://github.com/neelp03/neelp03/blob/main/banner.jfif)
+<p>
+	My name is Neel Patel and I am a software engineering student residing in California. You can find me on <a href="https://www.instagram.com/neel__patel03/"><img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/iconmonstr-instagram-11-32.png" width="18px"></a> and <a href="https://www.linkedin.com/in/neel-patel-01/"><img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/iconmonstr-linkedin-3-240.png" width="18px"></a>. I am currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. You can find most of my work here on github or you can visit my portfolio at https://neelp03.github.io/neelp03 (currently under construction).
+</p>
 
-### Hi there, I'm [Neel!](https://www.linkedin.com/in/neel-patel-01/) 👋
+  ---
+ ### Technologies & Tools
+ <br/>
+ <div align="center">
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-html-5-64.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/gradient_css.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-javascript-64.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-java-64.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-c-64.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-python-64.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/grad_nodejs.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-react-native-64.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-java-eclipse-64.png"/>
+	<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-visual-studio-code-2019-64.png"/>
+</div>
 
-<!--
-Here are some ideas to get you started:
+   ---
+   
+<p align="center">
+	<a><img src="https://github-readme-stats.vercel.app/api?username=neelp03&show_icons=true&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0,5d50ff,8643ff,d17cff"/></a>
+	<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=neelp03&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0,5d50ff,8643ff,d17cff"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ---
 
-
-<a href="https://github.com/neelp03/neelp03">
-  <img style="align-items: center; display: block; margin-left: auto; margin-right: auto; padding: 15px;" src="https://github-readme-stats.vercel.app/api?username=neelp03&theme=onedark&include_all_commits=true" alt="Neel's GitHub stats" />
- </a>
-	
- <a href="https://github.com/neelp03/neelp03">
-  <img style="width: 39%; height:auto; align-items: center; display: block; margin-left: auto; margin-right: auto; padding: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelp03&theme=onedark" />
-  </a>
+<!--START_SECTION:activity-->
