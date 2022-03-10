@@ -40,9 +40,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/SCE-Development/Centauri/pull/7) in [SCE-Development/Centauri](https://github.com/SCE-Development/Centauri)
-2. 💪 Opened PR [#7](https://github.com/SCE-Development/Centauri/pull/7) in [SCE-Development/Centauri](https://github.com/SCE-Development/Centauri)
-3. ❗️ Opened issue [#1010](https://github.com/SCE-Development/Core-v4/issues/1010) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-4. 🎉 Merged PR [#978](https://github.com/SCE-Development/Core-v4/pull/978) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-5. 🗣 Commented on [#978](https://github.com/SCE-Development/Core-v4/issues/978) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+1. 💪 Opened PR [#26](https://github.com/SCE-Development/Quasar/pull/26) in [SCE-Development/Quasar](https://github.com/SCE-Development/Quasar)
+2. 🎉 Merged PR [#7](https://github.com/SCE-Development/Centauri/pull/7) in [SCE-Development/Centauri](https://github.com/SCE-Development/Centauri)
+3. 💪 Opened PR [#7](https://github.com/SCE-Development/Centauri/pull/7) in [SCE-Development/Centauri](https://github.com/SCE-Development/Centauri)
+4. ❗️ Opened issue [#1010](https://github.com/SCE-Development/Core-v4/issues/1010) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+5. 🎉 Merged PR [#978](https://github.com/SCE-Development/Core-v4/pull/978) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 <!--END_SECTION:activity-->
