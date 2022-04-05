@@ -40,9 +40,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1059](https://github.com/SCE-Development/Core-v4/pull/1059) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-2. 🎉 Merged PR [#1049](https://github.com/SCE-Development/Core-v4/pull/1049) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-3. 🗣 Commented on [#1051](https://github.com/SCE-Development/Core-v4/issues/1051) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-4. 💪 Opened PR [#1049](https://github.com/SCE-Development/Core-v4/pull/1049) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-5. 🗣 Commented on [#1048](https://github.com/SCE-Development/Core-v4/issues/1048) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+1. 🎉 Merged PR [#31](https://github.com/SCE-Development/Quasar/pull/31) in [SCE-Development/Quasar](https://github.com/SCE-Development/Quasar)
+2. 🎉 Merged PR [#1059](https://github.com/SCE-Development/Core-v4/pull/1059) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+3. 🎉 Merged PR [#1049](https://github.com/SCE-Development/Core-v4/pull/1049) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+4. 🗣 Commented on [#1051](https://github.com/SCE-Development/Core-v4/issues/1051) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+5. 💪 Opened PR [#1049](https://github.com/SCE-Development/Core-v4/pull/1049) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 <!--END_SECTION:activity-->
