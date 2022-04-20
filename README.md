@@ -40,9 +40,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1078](https://github.com/SCE-Development/Core-v4/issues/1078) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-2. 🎉 Merged PR [#1084](https://github.com/SCE-Development/Core-v4/pull/1084) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-3. 🗣 Commented on [#1078](https://github.com/SCE-Development/Core-v4/issues/1078) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-4. 🎉 Merged PR [#1083](https://github.com/SCE-Development/Core-v4/pull/1083) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-5. ❗️ Closed issue [#1079](https://github.com/SCE-Development/Core-v4/issues/1079) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+1. 🎉 Merged PR [#1](https://github.com/xotwodgaby/gabrielatheartist/pull/1) in [xotwodgaby/gabrielatheartist](https://github.com/xotwodgaby/gabrielatheartist)
+2. 💪 Opened PR [#1](https://github.com/xotwodgaby/gabrielatheartist/pull/1) in [xotwodgaby/gabrielatheartist](https://github.com/xotwodgaby/gabrielatheartist)
+3. ❗️ Closed issue [#1078](https://github.com/SCE-Development/Core-v4/issues/1078) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+4. 🎉 Merged PR [#1084](https://github.com/SCE-Development/Core-v4/pull/1084) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+5. 🗣 Commented on [#1078](https://github.com/SCE-Development/Core-v4/issues/1078) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 <!--END_SECTION:activity-->
