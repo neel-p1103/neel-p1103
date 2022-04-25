@@ -40,9 +40,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1082](https://github.com/SCE-Development/Core-v4/pull/1082) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-2. 🎉 Merged PR [#1086](https://github.com/SCE-Development/Core-v4/pull/1086) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-3. 💪 Opened PR [#1086](https://github.com/SCE-Development/Core-v4/pull/1086) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-4. 🎉 Merged PR [#1](https://github.com/xotwodgaby/gabrielatheartist/pull/1) in [xotwodgaby/gabrielatheartist](https://github.com/xotwodgaby/gabrielatheartist)
-5. 💪 Opened PR [#1](https://github.com/xotwodgaby/gabrielatheartist/pull/1) in [xotwodgaby/gabrielatheartist](https://github.com/xotwodgaby/gabrielatheartist)
+1. 🗣 Commented on [#137](https://github.com/SCE-Development/SCE-discord-bot/issues/137) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
+2. 💪 Opened PR [#1088](https://github.com/SCE-Development/Core-v4/pull/1088) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+3. 🎉 Merged PR [#1082](https://github.com/SCE-Development/Core-v4/pull/1082) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+4. 🎉 Merged PR [#1086](https://github.com/SCE-Development/Core-v4/pull/1086) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+5. 💪 Opened PR [#1086](https://github.com/SCE-Development/Core-v4/pull/1086) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 <!--END_SECTION:activity-->
