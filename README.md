@@ -40,9 +40,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/SCE-Development/SCE-discord-bot/issues/137) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
-2. 💪 Opened PR [#1088](https://github.com/SCE-Development/Core-v4/pull/1088) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-3. 🎉 Merged PR [#1082](https://github.com/SCE-Development/Core-v4/pull/1082) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-4. 🎉 Merged PR [#1086](https://github.com/SCE-Development/Core-v4/pull/1086) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-5. 💪 Opened PR [#1086](https://github.com/SCE-Development/Core-v4/pull/1086) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+1. 💪 Opened PR [#36](https://github.com/SCE-Development/Quasar/pull/36) in [SCE-Development/Quasar](https://github.com/SCE-Development/Quasar)
+2. 🗣 Commented on [#137](https://github.com/SCE-Development/SCE-discord-bot/issues/137) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
+3. 💪 Opened PR [#1088](https://github.com/SCE-Development/Core-v4/pull/1088) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+4. 🎉 Merged PR [#1082](https://github.com/SCE-Development/Core-v4/pull/1082) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+5. 🎉 Merged PR [#1086](https://github.com/SCE-Development/Core-v4/pull/1086) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 <!--END_SECTION:activity-->
