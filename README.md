@@ -10,16 +10,7 @@
 		<h3>Technologies & Tools</h3>
 		 <br/>
 		 <div align="center">
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-html-5-64.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/gradient_css.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-javascript-64.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-java-64.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-c-64.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-python-64.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/grad_nodejs.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-react-native-64.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-java-eclipse-64.png"/>
-			<img src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-visual-studio-code-2019-64.png"/>
+			
 		</div>
 		   <hr/>
 		<h3 align="center"> GitHub Statistics </h3><br/>
