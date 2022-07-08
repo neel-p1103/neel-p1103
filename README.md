@@ -10,16 +10,31 @@
 		<h3>Technologies & Tools</h3>
 		 <br/>
 		 <div align="center">
-			
+		 	<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-javascript-48.png" alt="JavaScript"/>
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-java-48.png" alt="Java SE 11"/>
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-python-48.png" alt="Python"/>
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-c%2B%2B-48.png" alt="C++"/>
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-css3-48.png" alt="CSS3"/>
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-html-5-48.png" alt="HTML5"/>
+		 </div>
+		 <br/>
+		 <div align="center">
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-react-native-48.png" alt="react.js"/> 
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-node-js-48.png" alt="node.js"/> 
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-mongodb-48.png" alt="MongoDB"/> 
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-docker-48.png" alt="Docker"/> 
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-nginx-48.png" alt="Nginx"/> 
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-amazon-web-services-48.png" alt="Amazon Web Services"/> 
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-firebase-48.png" alt="Firebase"/> 
 		</div>
 		   <hr/>
 		<h3 align="center"> GitHub Statistics </h3><br/>
 		<p align="center">
 			<a>
-				<img src="https://github-readme-stats.vercel.app/api?username=neelp03&show_icons=true&hide_border=true&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0,5d50ff,8643ff,d17cff"/>
+				<img src="https://github-readme-stats.vercel.app/api?username=neelp03&show_icons=true&hide_border=true&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0,003973,E5E5BE"/>
 			</a>
 			<a>
-				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=neelp03&hide_border=true&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0,5d50ff,8643ff,d17cff"/>
+				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=neelp03&hide_border=true&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0,003973,E5E5BE"/>
 			</a>
 		</p>
 		<hr/>
