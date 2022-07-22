@@ -49,9 +49,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/SCE-Development/SCE-discord-bot/pull/146) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
-2. ❗️ Opened issue [#1124](https://github.com/SCE-Development/Core-v4/issues/1124) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-3. 🎉 Merged PR [#1121](https://github.com/SCE-Development/Core-v4/pull/1121) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-4. ❌ Reopened PR [#1121](https://github.com/SCE-Development/Core-v4/pull/1121) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-5. ❌ Closed PR [#1121](https://github.com/SCE-Development/Core-v4/pull/1121) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+1. 💪 Opened PR [#1126](https://github.com/SCE-Development/Core-v4/pull/1126) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+2. ❌ Closed PR [#1115](https://github.com/SCE-Development/Core-v4/pull/1115) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+3. 💪 Opened PR [#146](https://github.com/SCE-Development/SCE-discord-bot/pull/146) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
+4. ❗️ Opened issue [#1124](https://github.com/SCE-Development/Core-v4/issues/1124) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+5. 🎉 Merged PR [#1121](https://github.com/SCE-Development/Core-v4/pull/1121) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 <!--END_SECTION:activity-->
