@@ -26,7 +26,7 @@
 			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-nginx-48.png" alt="Nginx"/> 
 			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-amazon-web-services-48.png" alt="Amazon Web Services"/> 
 			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-firebase-48.png" alt="Firebase"/>
-			<img width="65px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/IBM_Cloud_logo.png" alt="IBM Cloud"/>
+			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/react-bootstrap.png" alt="React Bootstrap"/>
 		</div>
 		   <hr/>
 		<h3 align="center"> GitHub Statistics </h3><br/>
