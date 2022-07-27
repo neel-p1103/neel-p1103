@@ -50,9 +50,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1128](https://github.com/SCE-Development/Core-v4/pull/1128) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-2. 🎉 Merged PR [#1104](https://github.com/SCE-Development/Core-v4/pull/1104) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-3. 🎉 Merged PR [#146](https://github.com/SCE-Development/SCE-discord-bot/pull/146) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
-4. ❌ Closed PR [#698](https://github.com/SCE-Development/Core-v4/pull/698) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-5. ❌ Closed PR [#134](https://github.com/SCE-Development/SCE-discord-bot/pull/134) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
+1. ❗️ Closed issue [#28](https://github.com/SCE-Development/Quasar/issues/28) in [SCE-Development/Quasar](https://github.com/SCE-Development/Quasar)
+2. 💪 Opened PR [#1128](https://github.com/SCE-Development/Core-v4/pull/1128) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+3. 🎉 Merged PR [#1104](https://github.com/SCE-Development/Core-v4/pull/1104) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+4. 🎉 Merged PR [#146](https://github.com/SCE-Development/SCE-discord-bot/pull/146) in [SCE-Development/SCE-discord-bot](https://github.com/SCE-Development/SCE-discord-bot)
+5. ❌ Closed PR [#698](https://github.com/SCE-Development/Core-v4/pull/698) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
 <!--END_SECTION:activity-->
