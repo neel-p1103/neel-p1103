@@ -28,6 +28,7 @@
 			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-firebase-48.png" alt="Firebase"/>
 			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/react-bootstrap.png" alt="React Bootstrap"/>
 		</div>
+			<br/>
 		   <hr/>
 		<h3 align="center"> GitHub Statistics </h3><br/>
 		<p align="center">
