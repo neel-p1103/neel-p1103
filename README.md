@@ -51,9 +51,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/neelp03/Team1/pull/15) in [neelp03/Team1](https://github.com/neelp03/Team1)
-2. 💪 Opened PR [#12](https://github.com/neelp03/Team1/pull/12) in [neelp03/Team1](https://github.com/neelp03/Team1)
-3. 🎉 Merged PR [#1182](https://github.com/SCE-Development/Core-v4/pull/1182) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
-4. ❗️ Closed issue [#1](https://github.com/neelp03/Team1/issues/1) in [neelp03/Team1](https://github.com/neelp03/Team1)
-5. 🎉 Merged PR [#10](https://github.com/neelp03/Team1/pull/10) in [neelp03/Team1](https://github.com/neelp03/Team1)
+1. 🎉 Merged PR [#17](https://github.com/neelp03/Team1/pull/17) in [neelp03/Team1](https://github.com/neelp03/Team1)
+2. 💪 Opened PR [#15](https://github.com/neelp03/Team1/pull/15) in [neelp03/Team1](https://github.com/neelp03/Team1)
+3. 💪 Opened PR [#12](https://github.com/neelp03/Team1/pull/12) in [neelp03/Team1](https://github.com/neelp03/Team1)
+4. 🎉 Merged PR [#1182](https://github.com/SCE-Development/Core-v4/pull/1182) in [SCE-Development/Core-v4](https://github.com/SCE-Development/Core-v4)
+5. ❗️ Closed issue [#1](https://github.com/neelp03/Team1/issues/1) in [neelp03/Team1](https://github.com/neelp03/Team1)
 <!--END_SECTION:activity-->
