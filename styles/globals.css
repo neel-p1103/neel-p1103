@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Mina:wght@400;700&family=Roboto:wght@100&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .heroButton {
+    @apply px-6 py-2 ml-2 mr-2 uppercase text-sm tracking-widest text-[#5b5b58] font-bold font-sans transition-all hover:border border-[#8E8D8A] hover:text-[#e98074]
+  }
+}
