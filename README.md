@@ -51,9 +51,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/neelp03/Team1/pull/37) in [neelp03/Team1](https://github.com/neelp03/Team1)
-2. 🗣 Commented on [#27](https://github.com/neelp03/Team1/issues/27) in [neelp03/Team1](https://github.com/neelp03/Team1)
-3. 🎉 Merged PR [#36](https://github.com/neelp03/Team1/pull/36) in [neelp03/Team1](https://github.com/neelp03/Team1)
-4. 🎉 Merged PR [#31](https://github.com/neelp03/Team1/pull/31) in [neelp03/Team1](https://github.com/neelp03/Team1)
-5. 💪 Opened PR [#31](https://github.com/neelp03/Team1/pull/31) in [neelp03/Team1](https://github.com/neelp03/Team1)
+1. 🎉 Merged PR [#37](https://github.com/neelp03/Team1/pull/37) in [neelp03/Team1](https://github.com/neelp03/Team1)
+2. 💪 Opened PR [#37](https://github.com/neelp03/Team1/pull/37) in [neelp03/Team1](https://github.com/neelp03/Team1)
+3. 🗣 Commented on [#27](https://github.com/neelp03/Team1/issues/27) in [neelp03/Team1](https://github.com/neelp03/Team1)
+4. 🎉 Merged PR [#36](https://github.com/neelp03/Team1/pull/36) in [neelp03/Team1](https://github.com/neelp03/Team1)
+5. 🎉 Merged PR [#31](https://github.com/neelp03/Team1/pull/31) in [neelp03/Team1](https://github.com/neelp03/Team1)
 <!--END_SECTION:activity-->
