@@ -39,7 +39,7 @@
 				<img src="https://github-readme-stats.vercel.app/api/wakatime?username=neelp03&custom_title=My%20Weekly%20Stats&hide_border=true&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&bg_color=0,003973,E5E5BE&icon_color=FFFFFF"/>
 			</a> -->
 			<a>
-				<img src="http://github-readme-streak-stats.herokuapp.com/?user=neelp03&hide_border=true&background=003973&currStreakNum=E5E5BE&stroke=FFFFFF&ring=7B969B&sideNums=E5E5BE&sideLabels=7B969B&fire=FFFFFF&currStreakLabel=FFFFFF&dates=DDDDDD"/>
+				<img src=""/>
 			</a>
 		</p>
 		<hr/>
