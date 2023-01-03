@@ -36,6 +36,11 @@
 				<img src="https://github-readme-stats.vercel.app/api?username=neelp03&show_icons=true&hide_border=true&border_radius=15px&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0,003973,E5E5BE"/>
 			</a>
 		</p>
+		<p align="center">
+			<a>
+				<img src="http://github-readme-streak-stats.herokuapp.com/?user=neelp03&hide_border=true&background=003973&currStreakNum=E5E5BE&stroke=FFFFFF&ring=7B969B&sideNums=E5E5BE&sideLabels=7B969B&fire=FFFFFF&currStreakLabel=FFFFFF&dates=DDDDDD"/>
+			</a>
+		</p>
 		<hr/>
 	</body>
 </html>
