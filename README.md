@@ -50,7 +50,7 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/neelp03/Team1/pull/38) in [neelp03/Team1](https://github.com/neelp03/Team1)
+1. 💪 Opened PR [#1](https://github.com/kqteDinh/CS-151-Term-Project/pull/1) in [kqteDinh/CS-151-Term-Project](https://github.com/kqteDinh/CS-151-Term-Project)
 2. 🎉 Merged PR [#37](https://github.com/neelp03/Team1/pull/37) in [neelp03/Team1](https://github.com/neelp03/Team1)
 3. 💪 Opened PR [#37](https://github.com/neelp03/Team1/pull/37) in [neelp03/Team1](https://github.com/neelp03/Team1)
 4. 🗣 Commented on [#27](https://github.com/neelp03/Team1/issues/27) in [neelp03/Team1](https://github.com/neelp03/Team1)
