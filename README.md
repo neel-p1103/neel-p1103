@@ -4,7 +4,7 @@
 <html>
 	<body>
 		<p align="center">
-			My name is Neel Patel and I am a software engineering student residing in California. You can find me on <a href="https://www.linkedin.com/in/neel-patel-01/">LinkedIn</a> and <a href="https://www.instagram.com/neel__patel03/">Instagram</a>. I am currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. I have 2+ years of hands-on experience designing, developing and implementing application and solution using a range of technologies and programming languages. Currently seeking to leverage broad development experience and hands-on technical expertise in a challenging role such as software development intern. You can find most of my work here on github or you can visit my portfolio at https://neelp03.github.io (under construction)
+			My name is Neel Patel and I am a software engineering student residing in California. You can find me on <a href="https://www.linkedin.com/in/neel-patel-01/">LinkedIn</a> and <a href="https://www.instagram.com/neel__patel03/">Instagram</a>. I am currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. I have 2+ years of hands-on experience designing, developing and implementing application and solution using a range of technologies and programming languages. Currently seeking to leverage broad development experience and hands-on technical expertise in a challenging role such as software development intern. You can find most of my work here on github or you can visit my portfolio at https://neelp03.github.io
 		</p>
 		  <hr />
 		<h3>Technologies & Tools</h3>
