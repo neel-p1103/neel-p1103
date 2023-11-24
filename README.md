@@ -39,9 +39,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/neelp03/CS157A-Team11/pull/4) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-2. 🗣 Commented on [#3](https://github.com/neelp03/CS157A-Team11/pull/3#issuecomment-1800732103) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-3. 💪 Opened PR [#4](https://github.com/neelp03/CS157A-Team11/pull/4) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-4. ❌ Closed PR [#2](https://github.com/neelp03/CS157A-Team11/pull/2) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-5. 💪 Opened PR [#2](https://github.com/neelp03/CS157A-Team11/pull/2) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
+1. 💪 Opened PR [#7](https://github.com/neelp03/CS157A-Team11/pull/7) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
+2. 🎉 Merged PR [#4](https://github.com/neelp03/CS157A-Team11/pull/4) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
+3. 🗣 Commented on [#3](https://github.com/neelp03/CS157A-Team11/pull/3#issuecomment-1800732103) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
+4. 💪 Opened PR [#4](https://github.com/neelp03/CS157A-Team11/pull/4) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
+5. ❌ Closed PR [#2](https://github.com/neelp03/CS157A-Team11/pull/2) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
 <!--END_SECTION:activity-->
