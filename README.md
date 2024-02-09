@@ -1,39 +1,17 @@
 [![Header](https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/banner.jfif "Header")](https://github.com/neelp03/neelp03/blob/main/banner.jfif)
+# 💫 About Me:
+🔭 I’m currently working on Battery Management System firmware, diving deep into STM32 microcontroller programming and implementing communication protocols for efficient monitoring and measurement of battery stack parameters.<br><br>👯 I’m looking to collaborate on open-source projects related to firmware development, IoT, or any innovative projects that involve software and hardware integration.<br><br>🤝 I’m looking for help with expanding my knowledge in cloud platforms, particularly AWS, and refining my skills in test automation frameworks.<br><br>🌱 I’m currently learning advanced techniques in performance testing and scale testing to evaluate the efficiency and scalability of cloud security solutions.<br><br>💬 Ask me about my experiences in telemetry design, server rack setup, or any projects involving full-stack development using MERN technologies.
 
-<!-- HTML CODE -->
-<html>
-	<body>
-		<p align="center">
-			My name is Neel Patel and I am a software engineering student residing in California. You can find me on <a href="https://www.linkedin.com/in/neel-patel-01/">LinkedIn</a> and <a href="https://www.instagram.com/neel__patel03/">Instagram</a>. I am currently pursuing a Bachelor of Science in Software Engineering at San Jose State University. I have 2+ years of hands-on experience designing, developing and implementing application and solution using a range of technologies and programming languages. Currently seeking to leverage broad development experience and hands-on technical expertise in a challenging role such as software development intern. You can find most of my work here on github or you can visit my portfolio at https://neelp03.github.io
-		</p>
-		  <hr />
-		<h3>Technologies & Tools</h3>
-		 <br/>
-		 <div align="center">
-		 	<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-javascript-48.png" alt="JavaScript"/>
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-java-48.png" alt="Java SE 11"/>
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-python-48.png" alt="Python"/>
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-c%2B%2B-48.png" alt="C++"/>
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-css3-48.png" alt="CSS3"/>
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-html-5-48.png" alt="HTML5"/>
-		 </div>
-		 <br/>
-		 <div align="center">
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-react-native-48.png" alt="react.js"/> 
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-node-js-48.png" alt="node.js"/> 
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-mongodb-48.png" alt="MongoDB"/> 
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-docker-48.png" alt="Docker"/> 
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-nginx-48.png" alt="Nginx"/> 
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-amazon-web-services-48.png" alt="Amazon Web Services"/> 
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/icons8-firebase-48.png" alt="Firebase"/>
-			<img width="56px" src="https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/react-bootstrap.png" alt="React Bootstrap"/>
-		</div>
-			<br/>
-		   <hr/>
-	</body>
-	
-</html>
-<!-- HTML CODE END -->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__neel.patel__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neelp03) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=flat&logo=grafana&logoColor=white&color=%23F46800) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white&color=%23E6522C) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=neelp03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=neelp03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!-- GITHUB ACTIVITY SECTION EDITED BY GH ACTIONS -->
 
 ### Recent GitHub Activity
