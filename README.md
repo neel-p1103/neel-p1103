@@ -11,15 +11,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neelp03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neelp03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- GITHUB ACTIVITY SECTION EDITED BY GH ACTIONS -->
-
-### Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/neelp03/CS157A-Team11/pull/8) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-2. 💪 Opened PR [#7](https://github.com/neelp03/CS157A-Team11/pull/7) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-3. 🎉 Merged PR [#4](https://github.com/neelp03/CS157A-Team11/pull/4) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-4. 🗣 Commented on [#3](https://github.com/neelp03/CS157A-Team11/pull/3#issuecomment-1800732103) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-5. 💪 Opened PR [#4](https://github.com/neelp03/CS157A-Team11/pull/4) in [neelp03/CS157A-Team11](https://github.com/neelp03/CS157A-Team11)
-<!--END_SECTION:activity-->
