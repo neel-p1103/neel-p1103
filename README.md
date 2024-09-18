@@ -1,30 +1,24 @@
 [![Header](https://raw.githubusercontent.com/neelp03/neelp03/main/read_me_assets/banner.jfif "Header")](https://github.com/neelp03/neelp03/blob/main/banner.jfif)
 # 💫 About Me:
-🔭 I’m currently working on Battery Management System firmware, diving deep into STM32 microcontroller programming and implementing communication protocols for efficient monitoring and measurement of battery stack parameters.<br><br>👯 I’m looking to collaborate on open-source projects related to firmware development, IoT, or any innovative projects that involve software and hardware integration.<br><br>🤝 I’m looking for help with expanding my knowledge in cloud platforms, particularly AWS, and refining my skills in test automation frameworks.<br><br>🌱 I’m currently learning advanced techniques in performance testing and scale testing to evaluate the efficiency and scalability of cloud security solutions.<br><br>💬 Ask me about my experiences in telemetry design, server rack setup, or any projects involving full-stack development using MERN technologies.
+🔭 I’m currently working as a QA Engineering Student at EPRI, with a growing focus on full-stack and backend development.<br><br> 👯 I’m looking to collaborate on open-source projects related to backend architecture, REST APIs, and distributed systems.<br><br> 🤝 I’m expanding my expertise in cloud platforms like AWS, refining my skills in Go, and enhancing my knowledge of test automation and performance testing frameworks.<br><br> 🌱 I’m currently learning Go and advanced techniques in scalable backend systems and cloud security solutions to improve API efficiency and performance.<br><br> 💬 Feel free to ask me about my experiences with backend development, API design, and projects involving full-stack development using MERN or Go.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__neel.patel__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neelp03) 
 
 # 💻 Tech Stack:
 <div align="left">
-<img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logoColor=white&logo=c&color=00599C" alt="C" />
+<img src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logoColor=white&logo=go&color=00599C" alt="Go" />
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logoColor=white&logo=c%2B%2B&color=00599C" alt="C++" />
 <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="CSS3" />
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="HTML5" />
 <img src="https://img.shields.io/badge/-Shell_Script-black?style=for-the-badge&logoColor=white&logo=gnu-bash&color=121011" alt="Shell Script" />
-<img src="https://img.shields.io/badge/-Scala-black?style=for-the-badge&logoColor=white&logo=scala&color=DC322F" alt="Scala" />
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3670A0" alt="Python" />
 <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=007ACC" alt="TypeScript" />
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logoColor=white&logo=openjdk&color=ED8B00" alt="Java" />
 <img src="https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logoColor=white&logo=graphql&color=E10098" alt="GraphQL" />
 <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logoColor=white&logo=amazon-aws&color=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logoColor=white&logo=heroku&color=430098" alt="Heroku" />
-<img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logoColor=white&logo=vercel&color=000000" alt="Vercel" />
-<img src="https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logoColor=white&logo=netlify&color=00C7B7" alt="Netlify" />
-<img src="https://img.shields.io/badge/-Github_Pages-black?style=for-the-badge&logoColor=white&logo=github&color=121013" alt="Github Pages" />
 <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logoColor=white&logo=firebase&color=039BE5" alt="Firebase" />
-<img src="https://img.shields.io/badge/-Ant_Design-black?style=for-the-badge&logoColor=white&logo=ant-design&color=0170FE" alt="Ant Design" />
 <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logoColor=white&logo=angular&color=E23237" alt="Angular.js" />
 <img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logoColor=white&logo=bootstrap&color=8511FA" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logoColor=white&logo=flask&color=000000" alt="Flask" />
@@ -53,8 +47,6 @@
 <img src="https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logoColor=white&logo=grafana&color=F46800" alt="Grafana" />
 <img src="https://img.shields.io/badge/-Prometheus-black?style=for-the-badge&logoColor=white&logo=prometheus&color=E6522C" alt="Prometheus" />
 <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logoColor=white&logo=docker&color=0DB7ED" alt="Docker" />
-<img src="https://img.shields.io/badge/-Raspberry_Pi-black?style=for-the-badge&logoColor=white&logo=raspberry-pi&color=C51A4A" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logoColor=white&logo=arduino&color=00979D" alt="Arduino" />
 <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logoColor=white&logo=postman&color=FF6C37" alt="Postman" />
 </div>
 
