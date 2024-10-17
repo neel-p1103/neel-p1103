@@ -3,7 +3,7 @@
 🔭 I’m currently working as a QA Engineering Student at EPRI, with a growing focus on full-stack and backend development.<br><br> 👯 I’m looking to collaborate on open-source projects related to backend architecture, REST APIs, and distributed systems.<br><br> 🤝 I’m expanding my expertise in cloud platforms like AWS, refining my skills in Go, and enhancing my knowledge of test automation and performance testing frameworks.<br><br> 🌱 I’m currently learning Go and advanced techniques in scalable backend systems and cloud security solutions to improve API efficiency and performance.<br><br> 💬 Feel free to ask me about my experiences with backend development, API design, and projects involving full-stack development using MERN or Go.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__neel.patel__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neelp03) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/neelp03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neelp03) 
 
 # 💻 Tech Stack:
 <div align="left">
