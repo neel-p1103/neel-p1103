@@ -25,7 +25,7 @@ With over 2 years of experience as a Software Engineer, I'm on a mission to crea
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelp03&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true" alt="neelp03"/>
              
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelp03&&theme=tokyonight" alt="neelp03" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelp03&&theme=tokyo" alt="neelp03" />
 </div>
 
 ------
